@@ -45,7 +45,7 @@ export default {
 <template>
   <div>
     <input v-model="fullimya">
-    <button @click="splitRezat">XYIU</button>
+    <button @click="splitRezat">OPABRATZI</button>
     <p>{{ imya }}</p>
     <p>{{ familka }}</p>
     <p>{{ otec }}</p>
